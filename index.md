@@ -20,3 +20,4 @@ My Github page is http://github.com/baxlos19.
 
     part-1 was also cool using nested loops to create a pattern. Also by decrementing and incrementing to create the pattern. It was a bit tricky at first but it was manageable. 
 
+I love computer science.
